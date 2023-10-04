@@ -1,13 +1,13 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/Microsoft/AL-Go-PTE@PPPreview",
-  "powerPlatformSolutionFolder": "WarehouseHelper",
+  "powerPlatformSolutionFolder": "BC-WarehouseHelper",
   "environments": [
     "Staging"
   ],
   "DeployToStaging": {
-    "environmentName": "staging",
-    "companyId": "f1a13d54-c32f-ee11-bdfb-6045bdc8a7d3",
-    "ppEnvironmentUrl": "https://orgda6e1cf7.crm.dynamics.com/"
+    "environmentName": "SandboxPL-DEV",
+    "companyId": "a95d7616-c4ea-49d1-809d-a4d86fc1a26f",
+    "ppEnvironmentUrl": "https://finstone-pl-dev.crm4.dynamics.com"
   }
 }
